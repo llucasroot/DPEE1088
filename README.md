@@ -1,3 +1,3 @@
 # python_rv
-DPEE1088
-F01 ExercíciosRevisão
+# DPEE108 - F01 ExercíciosRevisão
+# Códigos no arquivo py.ipynb
